@@ -75,4 +75,4 @@ Efficient way to build CNN architecture
 Collaborators
 
 
-melanoma-skin-cancer-detection/README.md at main · akashkriplani/melanoma-skin-cancer-detection
+melanoma-skin-cancer-detection/README.md at main ·melanoma-skin-cancer-detection
